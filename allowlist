@@ -1,11 +1,8 @@
-# Garment domains
 garment.io
 garmentio.com
 display.garmentio.com
 dualstack.garmentio-alb-1838818557.eu-west-1.elb.amazonaws.com
 uploads-prod-garment.s3.amazonaws.com
-
-# Google domains
 googleapis.com
 googletagmanager.com
 android.google.com
@@ -16,26 +13,16 @@ googleusercontent.com
 google.com
 gstatic.com
 google-analytics.com
-
-# Other CDNs and media
 via.placeholder.com
 imgur.com
 appspot.com
 d1vckxzl7b8vjz.cloudfront.net
 d1fexnknpz1gzy.cloudfront.net
-
-# Communication and analytics
 intercom.io
 sentry.io
-
-# ClickUp
 clickup.com
 app.clickup.com
-
-# Zoho
 zohopublic.com
 salesiq.zohopublic.com
-
-# Metabase
 metabase.com
 metabaseapp.com
